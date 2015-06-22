@@ -110,9 +110,9 @@
                             <img src='img/bca.jpg' alt='Bank BCA' style='margin-right:10px; height:30px''/> 
                             <img src='img/mandiri.jpg' alt='Bank Mandiri' style='margin-right:10px; height:30px''/> 
                             <p class='text-muted well well-sm no-shadow' style='margin-top: 10px;'>
-                                Rek. Bank BNI &emsp;&emsp;: 02152222 A/N Tarkiman <br/>
-                                Rek. Bank BCA &emsp;&emsp;: 02152222 A/N Tarkiman <br/>
-                                Rek. Bank MANDIRI : 02152222 A/N Tarkiman <br/>
+                                Rek. Bank BNI &emsp;&emsp;: 02152222 A/N Trexmen <br/>
+                                Rek. Bank BCA &emsp;&emsp;: 02152222 A/N Trexmen <br/>
+                                Rek. Bank MANDIRI : 02152222 A/N Trexmen <br/>
                             </p>
                         </div><!-- /.col -->
                         <div class='col-xs-6'>

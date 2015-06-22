@@ -13,7 +13,7 @@
                                         <li><!-- start message -->
                                             <a href="#">
                                                 <div class="pull-left">
-                                                    <img src="upload_foto/tarkiman.jpg" class="img-circle" alt="User Image"/>
+                                                    <img src="upload_foto/trexmen.jpg" class="img-circle" alt="User Image"/>
                                                 </div>
                                                 <h4>
                                                     Support Team
@@ -49,7 +49,7 @@
                                         <li>
                                             <a href="#">
                                                 <div class="pull-left">
-                                                    <img src="upload_foto/tarkiman.jpg" class="img-circle" alt="user image"/>
+                                                    <img src="upload_foto/trexmen.jpg" class="img-circle" alt="user image"/>
                                                 </div>
                                                 <h4>
                                                     Sales Department
