@@ -68,7 +68,7 @@
                     <!-- <p><a href="#">I forgot my password</a></p>
                     
                     <a href="register.html" class="text-center">Register a new membership</a> -->
-                    <h6>&copy; <?php $waktu= date("Y"); echo"$waktu "?> by Tarkiman 2015</h6>
+                    <h6>&copy; <?php $waktu= date("Y"); echo"$waktu "?> by Trexmen 2015</h6>
                 </div>
             </form>
 
