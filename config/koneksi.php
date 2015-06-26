@@ -3,7 +3,7 @@
 $server = "localhost";
 $username = "root";
 $password = "";
-$database = "inventory_system";
+$database = "project";
 
 // $server = "sql102.my-php.net";
 // $username = "my_8456742";
